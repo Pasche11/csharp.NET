@@ -39,7 +39,7 @@ namespace Desafio_1
             {
                 personasTodas[x] = new Persona();
             }
-                for (int x = 0; x < cantPersonas; x++)
+            for (int x = 0; x < cantPersonas; x++)
             {
                 int con = 0;
                 con++;

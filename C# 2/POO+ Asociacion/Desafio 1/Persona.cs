@@ -8,6 +8,7 @@ namespace Desafio_1
 {
     internal class Persona
     {
+        //Atributos y propiedades de Persona
         public string nombre { get; set; }
         public int edad { get; set; }
         public float altura { get; set; }

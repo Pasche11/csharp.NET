@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Introduccion
+namespace Desafio_1
 {
-    internal class Program
+    internal class Smartphone : Telefono
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
